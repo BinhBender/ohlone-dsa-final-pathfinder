@@ -9,13 +9,13 @@ SEPERATE COMPILATION
 		helper.cpp
 
 	4. accounts.cpp
-      accounts.h
+      	accounts.h
 
-  5. non_member.h
+  	5. non_member.h
 		non_member.cpp
  
-  6. queue.h
-      queue.cpp
+  	6. queue.h
+      	queue.cpp
 		
 	7. stack.h
 		 stack.cpp
